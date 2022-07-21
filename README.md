@@ -10,6 +10,7 @@ To run the file, ensure that you have the `tinyec` and `Fernet` libraries instal
 ```
 pip install tinyec
 pip install Cryptography
+pip install pycryptodome
 ```
 
 Note that Fernet is in the Python Cryptography Library.
