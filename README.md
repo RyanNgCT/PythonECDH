@@ -17,4 +17,9 @@ Note that Fernet is in the Python Cryptography Library.
 
 ## Others
 - [Slides](https://github.com/RyanNgCT/PythonECDH/blob/master/CTG%20Assignment_Slides.pptx)
+
 - [Dependencies](https://github.com/RyanNgCT/PythonECDH/blob/master/requirements.txt)
+
+```
+pip install -r requirements.txt
+```
